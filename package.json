@@ -1,0 +1,19 @@
+{
+  "name": "mohc-ws-employee-registry",
+  "version": "1.0.0",
+  "description": "Ministry Staff Information Management System (SIMS) for the Ministry of Housing, Construction and Water Supply, Sri Lanka",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sri-lanka",
+    "ministry",
+    "employee-registry",
+    "government-portal",
+    "human-resources"
+  ],
+  "author": "Ministry of Housing, Construction and Water Supply",
+  "license": "UNLICENSED"
+}
+
